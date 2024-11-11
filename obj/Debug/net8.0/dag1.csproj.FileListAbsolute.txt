@@ -1,0 +1,14 @@
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\bin\Debug\net8.0\dag1.exe
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\bin\Debug\net8.0\dag1.deps.json
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\bin\Debug\net8.0\dag1.runtimeconfig.json
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\bin\Debug\net8.0\dag1.dll
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\bin\Debug\net8.0\dag1.pdb
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\dag1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\dag1.AssemblyInfoInputs.cache
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\dag1.AssemblyInfo.cs
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\dag1.csproj.CoreCompileInputs.cache
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\dag1.dll
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\refint\dag1.dll
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\dag1.pdb
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\dag1.genruntimeconfig.cache
+C:\Users\darkl\OneDrive\Dokumenter\Kodehode\Uke3\dag1\obj\Debug\net8.0\ref\dag1.dll
